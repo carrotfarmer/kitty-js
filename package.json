@@ -1,5 +1,5 @@
 {
-  "name": "kitty-js",
+  "name": "@kittyjs/kitty-js",
   "version": "0.1.0",
   "description": "😻 The JavaScript library for Cats!",
   "main": "./dist/index.js",
