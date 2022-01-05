@@ -1,6 +1,6 @@
 {
   "name": "@kittyjs/kitty-js",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "😻 The JavaScript library for Cats!",
   "main": "./dist/index.js",
   "scripts": {
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/carrotfarmer/kitty-js/issues"
   },
-  "homepage": "https://github.com/carrotfarmer/kitty-js#readme",
+  "homepage": "https://dhruva-srinivas.gitbook.io/kitty.js",
   "devDependencies": {
     "@types/chai": "^4.3.0",
     "@types/mocha": "^9.0.0",
